@@ -1,2 +1,25 @@
+#myntra{
+	border-collapse:collapse;
+}
+#myntrahead{
+	text-align:left;
+	background-color:#c0514c;
+	color:white;
+}
+.left{
+	text-align:left;
+}
+.right{
+	text-align:right;
+}
+#waist{
+	background-color:#da9795;
+	color:white;
+}
+#chest{
+	background-color:#f3dcda;
+}
+#sleeve{
+	background-color:#d9d8d8;
 
-/* Your CSS Code here. */
+}
